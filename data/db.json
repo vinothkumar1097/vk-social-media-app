@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Completed Python course",
+      "description": "I have completed python course and it was really amazing....",
+      "postedAt": "06 Jun 2023 10:22:54 PM"
+    },
+    {
+      "id": 3,
+      "title": "Attended SNOW Knowledge event 2023",
+      "description": "Very honoured to be part of Knowledge Session conducted by servicenow",
+      "postedAt": "11 Jun 2023 10:07:07 PM"
+    },
+    {
+      "id": "b6709bcb-8ee1-467d-baa4-b9cf5d475096",
+      "title": "Insight out webinar",
+      "description": "part of insight out webinar to demo chatbot",
+      "postedAt": "11 Jun 2023 09:52:21 PM"
+    },
+    {
+      "id": "c25161f4-2a55-476c-8ce6-9699c7a44332",
+      "title": "testsw23",
+      "description": "testss",
+      "postedAt": "11 Jun 2023 10:04:45 PM"
+    },
+    {
+      "id": "df4ffeed-589c-4d34-87cb-f6548941a248",
+      "title": "test22",
+      "description": "teateeasdfasddfadsf",
+      "postedAt": "11 Jun 2023 10:06:58 PM"
+    }
+  ]
+}

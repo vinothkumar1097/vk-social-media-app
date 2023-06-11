@@ -1,0 +1,7 @@
+header .header {
+    display: block;
+    color: #000;
+    background-color: beige;
+    font-size: 1.5rem;
+    padding: 12px 5px;
+}

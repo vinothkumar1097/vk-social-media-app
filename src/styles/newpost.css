@@ -1,0 +1,6 @@
+.newpost form {
+    width: 350px;
+}
+.newpost form textarea {
+    resize: none;
+}

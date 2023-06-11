@@ -1,0 +1,20 @@
+.navlinks {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-grow: 1;
+  padding-left: 0;
+}
+.navlinks li a {
+  text-decoration: none;
+  cursor: pointer;
+  color: black;
+}
+.navlinks li {
+  font-size: 1rem;
+}
+.navlinks li:hover {
+  font-weight: bolder;
+  /* line-height: 3rem; */
+}

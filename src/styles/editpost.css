@@ -1,0 +1,6 @@
+.editpost form {
+    width: 350px;
+}
+.editpost form textarea {
+    resize: none;
+}

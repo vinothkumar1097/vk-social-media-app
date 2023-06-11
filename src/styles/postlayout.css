@@ -1,0 +1,8 @@
+.postlayout {
+  display: block;
+  text-align: right;
+  font-size: 0.8rem;
+}
+.postlayout a {
+    text-decoration: none;
+}

@@ -1,0 +1,15 @@
+.App {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+main {
+  height: 100%;
+  overflow-y: auto;
+}
+main section {
+  display: flex;
+  justify-content: center;
+  margin-top: 1rem;
+}
